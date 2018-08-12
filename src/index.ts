@@ -1,6 +1,2 @@
 
-import { hello } from './test/hello'
-
-export {
-  hello,
-};
+export { RequestServiceFacade } from './RequestServiceFacade';

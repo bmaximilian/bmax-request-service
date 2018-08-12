@@ -15,6 +15,14 @@
       }
     ],
     "max-line-length": [true, 120],
+    "ter-indent": [
+      true,
+      4,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "object-literal-sort-keys": false,
     "no-debugger": true,
     "no-console": true,
     "no-trailing-whitespace": true,
